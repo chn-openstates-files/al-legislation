@@ -1,4 +1,4 @@
-# 🏛️ al legislation file tree
+# 🏛️ Alabama legislation file tree
 
 Download a copy of your states legislation.
 
