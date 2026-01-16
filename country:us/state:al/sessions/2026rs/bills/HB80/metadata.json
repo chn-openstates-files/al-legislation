@@ -51,6 +51,26 @@
       }
     },
     {
+      "description": "Reported Out Committee House of Origin-- Committee 2nd Amendment (Judiciary)",
+      "date": "2026-01-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:35:51Z"
+      }
+    },
+    {
+      "description": "Reported Out Committee House of Origin-- Committee 1st Amendment (Judiciary)",
+      "date": "2026-01-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:35:51Z"
+      }
+    },
+    {
       "description": "Pending Committee Action in House of Origin (Judiciary)",
       "date": "2026-01-13T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -107,6 +127,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Reported Out Committee House of Origin-- Committee 2nd Amendment",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/EJLJL29-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reported Out Committee House of Origin-- Committee 1st Amendment",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HG17966-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -150,6 +192,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:37:22Z"
+    "logs_latest_update": "2026-01-16T12:35:51Z"
   }
 }
