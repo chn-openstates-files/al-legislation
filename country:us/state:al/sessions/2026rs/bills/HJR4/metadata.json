@@ -19,13 +19,33 @@
   "other_identifiers": [],
   "actions": [
     {
-      "description": "Pending with Executive Amendment",
+      "description": "Enrolled",
+      "date": "2026-01-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:40:26Z"
+      }
+    },
+    {
+      "description": "Gudger Concur In and Adopt - Adopted Roll Call 147",
+      "date": "2026-01-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:40:26Z"
+      }
+    },
+    {
+      "description": "Reynolds Concur-In and Adopt Executive Amendment Roll Call 159",
       "date": "2026-01-22T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-23T12:38:18Z"
+        "log_file_created": "2026-01-28T12:40:26Z"
       }
     },
     {
@@ -135,7 +155,7 @@
     }
   ],
   "extras": {
-    "AL_BILL_ID": "21393057"
+    "AL_BILL_ID": "22163633"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:al/government",
@@ -144,6 +164,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-23T12:38:18Z"
+    "logs_latest_update": "2026-01-28T12:40:26Z"
   }
 }

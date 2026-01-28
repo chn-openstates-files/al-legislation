@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026rs",
   "identifier": "SB136",
-  "title": "Sunset law; Alabama Massage Therapy Licensing Board continued with modification until October 1, 2027",
+  "title": "Sunset law; Alabama Massage Therapy Licensing Board continued with modification until October 1, 2026, when renamed Alabama Massage Advisory Council under the regulatory authority of the Alabama Department of Public Health",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -18,6 +18,50 @@
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
+    {
+      "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 151",
+      "date": "2026-01-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:40:26Z"
+      }
+    },
+    {
+      "description": "Elliott motion to Adopt - Adopted Roll Call 150",
+      "date": "2026-01-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:40:26Z"
+      }
+    },
+    {
+      "description": "Elliott 1st Substitute Offered",
+      "date": "2026-01-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:40:26Z"
+      }
+    },
+    {
+      "description": "Third Reading in House of Origin",
+      "date": "2026-01-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:40:26Z"
+      }
+    },
     {
       "description": "Read for the Second Time and placed on the Calendar (Fiscal Responsibility and Economic Development)",
       "date": "2026-01-14T05:00:00+00:00",
@@ -84,6 +128,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Elliott motion to Adopt - Adopted Roll Call 150",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/EJTK392-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -107,7 +162,7 @@
     }
   ],
   "extras": {
-    "AL_BILL_ID": "21396984"
+    "AL_BILL_ID": "22163974"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:al/government",
@@ -116,6 +171,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:37:22Z"
+    "logs_latest_update": "2026-01-28T12:40:26Z"
   }
 }

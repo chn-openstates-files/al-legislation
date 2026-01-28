@@ -19,23 +19,43 @@
   "other_identifiers": [],
   "actions": [
     {
-      "description": "Motion to Reconsider Local Application Adopted",
-      "date": "2026-01-22T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "Read for the Second Time and placed on the Calendar (Local Legislation )",
+      "date": "2026-01-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-23T12:38:17Z"
+        "log_file_created": "2026-01-28T12:40:26Z"
       }
     },
     {
-      "description": "Motion in Writing Adopted",
+      "description": "Reported Out of Committee Second House",
+      "date": "2026-01-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:40:26Z"
+      }
+    },
+    {
+      "description": "Reconsideration of Local Application Adopted",
       "date": "2026-01-22T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-23T12:38:17Z"
+        "log_file_created": "2026-01-28T12:40:26Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Adopted",
+      "date": "2026-01-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:40:26Z"
       }
     },
     {
@@ -170,7 +190,7 @@
     }
   ],
   "extras": {
-    "AL_BILL_ID": "21425722"
+    "AL_BILL_ID": "22164074"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:al/government",
@@ -179,6 +199,6 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-23T12:38:17Z"
+    "logs_latest_update": "2026-01-28T12:40:26Z"
   }
 }
